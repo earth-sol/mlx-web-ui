@@ -16,7 +16,7 @@
         "@radix-ui/react-switch": "^1.0.3",
         "@radix-ui/react-toast": "^1.1.5",
         "@types/bun": "^1.1.0",
-        "bun": "^1.1.4",
+        "bun": "^1.1.30",
         "class-variance-authority": "^0.7.0",
         "clsx": "^2.1.1",
         "cmdk": "^1.0.0",
